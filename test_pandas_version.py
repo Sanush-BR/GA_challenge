@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 
-PANDAS_VERSION = "2.2.3"
+PANDAS_VERSION = "1.5.3"
 
 
 def test_pandas_version():
